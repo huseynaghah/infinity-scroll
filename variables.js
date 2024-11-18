@@ -1,0 +1,1 @@
+export const API_URL = "https://fakeapi-car.glitch.me/api/"
